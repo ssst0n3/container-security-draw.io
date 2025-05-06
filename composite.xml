@@ -68,5 +68,12 @@
     "h": 120,
     "aspect": "fixed",
     "title": "Attack-Step"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"200\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"&amp;lt;blockquote style=&amp;quot;margin: 0 0 0 40px; border: none; padding: 0px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size: 20px; background-color: transparent;&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;/blockquote&amp;gt;\" id=\"3\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#575757,#575757);strokeColor=none;opacity=80;fontStyle=0;fontColor=light-dark(#FFFFFF,#FFFFFF);align=left;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"200\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"4\" value=\"&amp;lt;b&amp;gt;&amp;lt;font style=&amp;quot;font-size: 24px;&amp;quot;&amp;gt;CVE-2099-9999&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt;&amp;lt;div&amp;gt;&amp;lt;font style=&amp;quot;font-size: 18px;&amp;quot;&amp;gt;xxxxxxxxx&amp;lt;/font&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div style=&amp;quot;&amp;quot;&amp;gt;&amp;lt;font&amp;gt;@author&amp;lt;/font&amp;gt;&amp;lt;/div&amp;gt;\" style=\"rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" width=\"180\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 200,
+    "h": 80,
+    "aspect": "fixed",
+    "title": "Title"
   }
 ]</mxlibrary>
